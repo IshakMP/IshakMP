@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @IshakMP
-- 👀 I’m interested in Backend Development.
 - 🌱 I have expertise in NodeJs and learning React.
+- 👀 I’m interested in Backend Development.
+- 👴 Check my code and you may mark me.
+- 🍳 Looking for Part-Time Online Jobs.
 - 💞️ I’m looking to collaborate on Open Source Projects.
 - 📫 Reach out to me by @ishqmp - Telegram
 
