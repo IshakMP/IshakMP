@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IshakMP
+- 👋 Hi, I’m Ishak 🙏.
 - 🌱 I have expertise in NodeJs and learning React.
 - 👀 I’m interested in Backend Development.
 - 👴 Check my code and you may mark me.
