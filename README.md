@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Ishak 🙏.
-- 🌱 I have expertise in NodeJs and learning React.
+- 👋 Hi, I’m Ishak.
+- 🌱 I have expertise in NodeJs and hands-On Experience.
 - 👀 I’m interested in Backend Development.
 - 👴 Check my code and you may mark me.
 - 🍳 Looking for Part-Time Online Jobs.
