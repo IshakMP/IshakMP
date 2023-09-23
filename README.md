@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ishak.
-- 🌱 I have expertise in NodeJs and hands-On Experience.
-- 👀 I’m interested in Backend Development.
-- 👴 Check my code and you may mark me.
+- 🌱 I have expertise in ReactJs & NodeJs and hands-On Experience.
+- 👀 I’m Experienced in Full Stack Development, Yet my fav is Backend.
+- 👴 Check my code and you can mark me then.
 - 🍳 Looking for Part-Time Online Jobs.
 - 💞️ I’m looking to collaborate on Open Source Projects.
 - 📫 Reach out to me by @ishqmp - Telegram
